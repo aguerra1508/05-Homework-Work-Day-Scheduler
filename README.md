@@ -8,7 +8,7 @@ An application used to assist employess keep track of important events on a dail
 
 A web browser such as Google Chrome, Internet Explorer or Firefox is needed to run the application.
 
-The application can be accessed via the following link: https://aguerra1508.github.io/Homework/05-Homework/index.html
+The application can be accessed via the following link: https://aguerra1508.github.io/05-Homework-Work-Day-Scheduler/
 
 ## Usage 
 
@@ -32,11 +32,10 @@ Mozilla MDN Web Docs jQuery - https://developer.mozilla.org/en-US/docs/Glossary/
 N/A
 
 ## Badges
-![Git Hub Languages](https://img.shields.io/github/languages/top/aguerra1508/aguerra1508.github.io)
 
-![W3c Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Faguerra1508.github.io%2FHomework%2F05-Homework%2Findex.html)
+![GitHub top language](https://img.shields.io/github/languages/top/aguerra1508/05-Homework-Work-Day-Scheduler)
 
-![GitHub](https://img.shields.io/github/license/aguerra1508/aguerra1508.github.io)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Faguerra1508.github.io%2F05-Homework-Work-Day-Scheduler%2F.)
 
 ## Contributing
 
